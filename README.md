@@ -1,0 +1,2 @@
+# reversi
+php reversi game
